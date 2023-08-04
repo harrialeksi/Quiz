@@ -7,7 +7,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt/v4"
-	"github.com/ip-05/quizzus/config"
+	"github.com/shinyhawk/Quiz/config"
 )
 
 func WSMiddleware(cfg *config.Config) gin.HandlerFunc {

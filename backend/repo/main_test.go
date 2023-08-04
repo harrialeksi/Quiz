@@ -2,12 +2,13 @@ package repo
 
 import (
 	"fmt"
-	"github.com/ip-05/quizzus/config"
-	"github.com/ip-05/quizzus/entity"
-	"gorm.io/driver/postgres"
-	"gorm.io/gorm"
 	"os"
 	"testing"
+
+	"github.com/shinyhawk/Quiz/config"
+	"github.com/shinyhawk/Quiz/entity"
+	"gorm.io/driver/postgres"
+	"gorm.io/gorm"
 )
 
 func TestMain(m *testing.M) {

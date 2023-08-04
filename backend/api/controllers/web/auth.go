@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/ip-05/quizzus/config"
+	"github.com/shinyhawk/Quiz/config"
 	"golang.org/x/oauth2"
 
 	"github.com/gin-gonic/gin"

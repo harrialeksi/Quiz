@@ -3,11 +3,11 @@ package api
 import (
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
-	"github.com/ip-05/quizzus/api/controllers/web"
-	"github.com/ip-05/quizzus/api/controllers/ws"
-	"github.com/ip-05/quizzus/api/middleware"
-	"github.com/ip-05/quizzus/app/auth"
-	"github.com/ip-05/quizzus/config"
+	"github.com/shinyhawk/Quiz/api/controllers/web"
+	"github.com/shinyhawk/Quiz/api/controllers/ws"
+	"github.com/shinyhawk/Quiz/api/middleware"
+	"github.com/shinyhawk/Quiz/app/auth"
+	"github.com/shinyhawk/Quiz/config"
 	"golang.org/x/oauth2"
 )
 

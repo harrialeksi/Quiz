@@ -2,17 +2,18 @@ package main
 
 import (
 	"fmt"
-	"github.com/ip-05/quizzus/app/auth"
-	"github.com/ip-05/quizzus/app/session"
-	"github.com/ip-05/quizzus/app/user"
-	"golang.org/x/oauth2"
-	"golang.org/x/oauth2/google"
 	"net/http"
 
-	"github.com/ip-05/quizzus/api"
-	"github.com/ip-05/quizzus/app/game"
-	"github.com/ip-05/quizzus/config"
-	"github.com/ip-05/quizzus/repo"
+	"github.com/shinyhawk/Quiz/app/auth"
+	"github.com/shinyhawk/Quiz/app/session"
+	"github.com/shinyhawk/Quiz/app/user"
+	"golang.org/x/oauth2"
+	"golang.org/x/oauth2/google"
+
+	"github.com/shinyhawk/Quiz/api"
+	"github.com/shinyhawk/Quiz/app/game"
+	"github.com/shinyhawk/Quiz/config"
+	"github.com/shinyhawk/Quiz/repo"
 )
 
 func main() {

@@ -10,8 +10,8 @@ import (
 
 	"github.com/jinzhu/copier"
 
-	"github.com/ip-05/quizzus/api/middleware"
-	"github.com/ip-05/quizzus/entity"
+	"github.com/shinyhawk/Quiz/api/middleware"
+	"github.com/shinyhawk/Quiz/entity"
 	"nhooyr.io/websocket"
 )
 

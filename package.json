@@ -5,12 +5,12 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ip-05/quizzus.git"
+    "url": "git+https://github.com/shinyhawk/Quiz.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ip-05/quizzus/issues"
+    "url": "https://github.com/shinyhawk/Quiz.git"
   },
-  "homepage": "https://github.com/ip-05/quizzus#readme"
+  "homepage": "https://github.com/shinyhawk/Quiz.git#readme"
 }

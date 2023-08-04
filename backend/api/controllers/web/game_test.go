@@ -11,12 +11,12 @@ import (
 	"testing"
 
 	"github.com/DATA-DOG/go-sqlmock"
-	"github.com/ip-05/quizzus/app/game"
-	"github.com/ip-05/quizzus/entity"
-	"github.com/ip-05/quizzus/repo"
+	"github.com/shinyhawk/Quiz/app/game"
+	"github.com/shinyhawk/Quiz/entity"
+	"github.com/shinyhawk/Quiz/repo"
 
 	"github.com/gin-gonic/gin"
-	"github.com/ip-05/quizzus/api/middleware"
+	"github.com/shinyhawk/Quiz/api/middleware"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/suite"
 	"gorm.io/driver/postgres"

@@ -3,7 +3,7 @@ package session
 import (
 	"time"
 
-	"github.com/ip-05/quizzus/entity"
+	"github.com/shinyhawk/Quiz/entity"
 )
 
 type ISessionRepo interface {

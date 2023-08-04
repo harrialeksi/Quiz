@@ -4,7 +4,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/ip-05/quizzus/utils"
+	"github.com/shinyhawk/Quiz/utils"
 )
 
 type Game struct {

@@ -7,9 +7,9 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/ip-05/quizzus/config"
-	"github.com/ip-05/quizzus/entity"
-	"github.com/ip-05/quizzus/utils"
+	"github.com/shinyhawk/Quiz/config"
+	"github.com/shinyhawk/Quiz/entity"
+	"github.com/shinyhawk/Quiz/utils"
 	"golang.org/x/oauth2"
 )
 

@@ -1,6 +1,6 @@
 package user
 
-import "github.com/ip-05/quizzus/entity"
+import "github.com/shinyhawk/Quiz/entity"
 
 type IUserRepo interface {
 	Get(id uint) *entity.User

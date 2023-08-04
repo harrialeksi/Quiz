@@ -2,7 +2,8 @@ package game
 
 import (
 	"errors"
-	"github.com/ip-05/quizzus/entity"
+
+	"github.com/shinyhawk/Quiz/entity"
 )
 
 type IGameRepo interface {

@@ -3,7 +3,7 @@ package repo
 import (
 	"testing"
 
-	"github.com/ip-05/quizzus/entity"
+	"github.com/shinyhawk/Quiz/entity"
 	"github.com/stretchr/testify/assert"
 )
 

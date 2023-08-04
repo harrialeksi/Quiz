@@ -12,7 +12,7 @@
     </main>
     <footer class="footer">
       <div>
-        <a class="footer__link" href="https://github.com/ip-05/quizzus">
+        <a class="footer__link" href="https://github.com/shinyhawk/Quiz">
           <nuxt-img class="footer__icon" src="svg/icon-github.svg" alt="GitHub Icon" />
         </a>
       </div>

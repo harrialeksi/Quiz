@@ -5,8 +5,8 @@ import (
 	"strconv"
 
 	"github.com/gin-gonic/gin"
-	"github.com/ip-05/quizzus/api/middleware"
-	"github.com/ip-05/quizzus/entity"
+	"github.com/shinyhawk/Quiz/api/middleware"
+	"github.com/shinyhawk/Quiz/entity"
 )
 
 type IUserService interface {
